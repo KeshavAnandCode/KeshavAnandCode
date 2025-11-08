@@ -6,6 +6,9 @@
 
 ### About
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavanandocde&show_icons=true&theme=radical)
+
+
 I am a 16-year developer currently attending Plano East Senior High School, and I love mathematics and coding.
 
 Outside STEM activities, I enjoy doing Speech and Debate, Music Arrangement and Composition, and watching cricket
