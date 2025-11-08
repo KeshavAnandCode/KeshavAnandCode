@@ -6,12 +6,6 @@
 
 ### About
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=KeshavAnandCode&theme=github)
-
-
-
-
-
 I am a 16-year developer currently attending Plano East Senior High School, and I love mathematics and coding.
 
 Outside STEM activities, I enjoy doing Speech and Debate, Music Arrangement and Composition, and watching cricket
