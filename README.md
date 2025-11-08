@@ -7,7 +7,7 @@
 ### About
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavAnandCode&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavAnandCode)
 
 
 
