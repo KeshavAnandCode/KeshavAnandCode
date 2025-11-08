@@ -8,6 +8,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeshavAnandCode&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavAnandCode&layout=compact)
+
+
 
 I am a 16-year developer currently attending Plano East Senior High School, and I love mathematics and coding.
 
