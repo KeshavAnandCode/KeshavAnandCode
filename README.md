@@ -7,9 +7,6 @@
 ### About
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavAnandCode)
-
-
 
 I am a 16-year developer currently attending Plano East Senior High School, and I love mathematics and coding.
 
