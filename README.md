@@ -38,11 +38,6 @@ Check out these following featured projects
 - [ISEF Winning Gait Guardian](https://isef.net/project/robo011t-ml-imu-processing-and-visual-monitoring-for-pd)
 - [KAV Debate Timer App](https://kav-timer.replit.app)
 
-### Statistics
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KeshavAnandCode&theme=highcontrast)](https://github.com/KeshavAnandCode)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavAnandCode&layout=compact&card_width=495&theme=vision-friendly-dark)](https://github.com/KeshavAnandCode)
-
 
 ### Contact
 
