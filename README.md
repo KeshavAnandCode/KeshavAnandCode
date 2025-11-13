@@ -33,8 +33,6 @@ I am also huge on FTC robotics, as software lead of Technical Turbulence 23344
 
 Check out these following featured projects
 
-![GitHub Contributions](https://github.com/KeshavAnandCode.png?tab=overview&from=2025-01-01&to=2025-12-31)
-
 
 - [FTC 23344 Repo](https://github.com/KeshavAnandCode/2024_Main)
 - [ISEF Winning Gait Guardian](https://isef.net/project/robo011t-ml-imu-processing-and-visual-monitoring-for-pd)
